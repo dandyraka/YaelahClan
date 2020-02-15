@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "kevinlebrun/colors.php": "^1.0"
+    }
+}
