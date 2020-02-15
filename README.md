@@ -16,3 +16,6 @@ cd YaelahClan/src
 ```bash
 php run.php
 ```
+
+### Screenshot
+![Screenshot](YaelahClan.png)
